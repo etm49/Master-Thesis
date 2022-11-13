@@ -132,3 +132,7 @@ dmypy.json
 data/
 .data
 
+# OS
+.DS_Store
+
+
